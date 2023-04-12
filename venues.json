@@ -1,0 +1,14 @@
+{
+  "club_schweiz_2": {
+    "name": "Moderno",
+    "location": [5.2342134, 62.2345234523],
+    "description": "A cooooool club man",
+    "images": ["url a", "url b"]
+  },
+  "club_schweiz_5": { 
+    "name": "Moderno2",
+    "location": [5.2442134, 62.2345234523],
+    "description": "A shitty club",
+    "images": ["url a", "url b"]
+  }
+}
