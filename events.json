@@ -1,7 +1,7 @@
 {
   "e00001": {
     "name": "Latino Night auf dem Berg",
-    "start": "1970-01-01T00:00:00Z",
+    "start_times": ["1970-01-01T00:00:00Z", "2024-01-01T00:00:00Z"],
     "duration": 60,
     "images": ["https://example.com/club-image", "https://example.com/hot-people"],
     "venue": "club_schweiz_2",
@@ -9,7 +9,7 @@
   },
   "e00002": {
     "name": "Latino Night unter dem Berg",
-    "start": "1974-01-01T00:00:00Z",
+    "start": ["1974-01-01T00:00:00Z", "1974-01-03T00:00:00Z", "1974-01-04T00:00:00Z", "1974-01-07T00:00:00Z"],
     "duration": 280,
     "images": ["https://example.com/club-image", "https://example.com/hot-people"],
     "venue": "club_schweiz_5",
