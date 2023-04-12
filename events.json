@@ -3,7 +3,7 @@
     "name": "Latino Night auf dem Berg",
     "start_times": ["1970-01-01T00:00:00Z", "2024-01-01T00:00:00Z"],
     "duration": 60,
-    "images": ["https://example.com/club-image", "https://example.com/hot-people"],
+    "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hip%2C_Hip%2C_Hurrah%21_Artists%E2%80%99_Party%2C_Skagen_%28Peder_Severin_Kr%C3%B8yer%29_-_Gothenburg_Museum_of_Art_-_F_62.tif/lossy-page1-589px-Hip%2C_Hip%2C_Hurrah%21_Artists%E2%80%99_Party%2C_Skagen_%28Peder_Severin_Kr%C3%B8yer%29_-_Gothenburg_Museum_of_Art_-_F_62.tif.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hip%2C_Hip%2C_Hurrah%21_Artists%E2%80%99_Party%2C_Skagen_%28Peder_Severin_Kr%C3%B8yer%29_-_Gothenburg_Museum_of_Art_-_F_62.tif/lossy-page1-589px-Hip%2C_Hip%2C_Hurrah%21_Artists%E2%80%99_Party%2C_Skagen_%28Peder_Severin_Kr%C3%B8yer%29_-_Gothenburg_Museum_of_Art_-_F_62.tif.jpg"],
     "venue": "club_schweiz_2",
     "artists": ["dj_flo1", "dj_abc4"]
   },
@@ -11,7 +11,7 @@
     "name": "Latino Night unter dem Berg",
     "start": ["1974-01-01T00:00:00Z", "1974-01-03T00:00:00Z", "1974-01-04T00:00:00Z", "1974-01-07T00:00:00Z"],
     "duration": 280,
-    "images": ["https://example.com/club-image", "https://example.com/hot-people"],
+    "images": ["https://upload.wikimedia.org/wikipedia/commons/9/98/Birthday_party.jpg", "https://upload.wikimedia.org/wikipedia/commons/b/b5/Imaginative_formal_dinner_party_sketched_by_Marguerite_Martyn_in_1920.jpg", "https://upload.wikimedia.org/wikipedia/commons/4/44/Hip%2C_Hip%2C_Hurrah%21_Artists%E2%80%99_Party%2C_Skagen_%28Peder_Severin_Kr%C3%B8yer%29_-_Gothenburg_Museum_of_Art_-_F_62.tif"],
     "venue": "club_schweiz_5",
     "artists": ["dj_bobo", "dj_def9"]
   }
