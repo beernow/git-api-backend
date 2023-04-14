@@ -5,7 +5,8 @@
     "duration": 60,
     "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hip%2C_Hip%2C_Hurrah%21_Artists%E2%80%99_Party%2C_Skagen_%28Peder_Severin_Kr%C3%B8yer%29_-_Gothenburg_Museum_of_Art_-_F_62.tif/lossy-page1-295px-Hip%2C_Hip%2C_Hurrah%21_Artists%E2%80%99_Party%2C_Skagen_%28Peder_Severin_Kr%C3%B8yer%29_-_Gothenburg_Museum_of_Art_-_F_62.tif.jpg"],
     "venue": "club_schweiz_2",
-    "artists": ["dj_flo1", "dj_abc4"]
+    "artists": ["dj_flo1", "dj_abc4"],
+    "genres": ["pop", "electro", "hiphop", "afro", "latino", "volksmusik", "instrumental", "oldies"],
   },
   "e00002": {
     "name": "Latino Night unter dem Berg",
@@ -13,6 +14,7 @@
     "duration": 280,
     "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hip%2C_Hip%2C_Hurrah%21_Artists%E2%80%99_Party%2C_Skagen_%28Peder_Severin_Kr%C3%B8yer%29_-_Gothenburg_Museum_of_Art_-_F_62.tif/lossy-page1-295px-Hip%2C_Hip%2C_Hurrah%21_Artists%E2%80%99_Party%2C_Skagen_%28Peder_Severin_Kr%C3%B8yer%29_-_Gothenburg_Museum_of_Art_-_F_62.tif.jpg", "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hip%2C_Hip%2C_Hurrah%21_Artists%E2%80%99_Party%2C_Skagen_%28Peder_Severin_Kr%C3%B8yer%29_-_Gothenburg_Museum_of_Art_-_F_62.tif/lossy-page1-295px-Hip%2C_Hip%2C_Hurrah%21_Artists%E2%80%99_Party%2C_Skagen_%28Peder_Severin_Kr%C3%B8yer%29_-_Gothenburg_Museum_of_Art_-_F_62.tif.jpg"],
     "venue": "club_schweiz_5",
-    "artists": ["dj_bobo", "dj_def9"]
+    "artists": ["dj_bobo", "dj_def9"],
+    "genres": ["pop"],
   }
 }
