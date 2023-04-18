@@ -1,12 +1,48 @@
 {
-  "club_schweiz_2": {
-    "name": "Moderno",
-    "location": [5.2342134, 62.2345234523],
-    "description": "A cooooool club man",
-    "images": ["url a", "url b"]
+  "club_schweiz_1": {
+    "name": "Schaanel",
+    "location": [47.17483834147902, 9.51214984995212],
+    "description": "Club in Liechtenstein",
+    "images": ["https://www.google.com/maps/place/Schaanel/@47.1748643,9.5117837,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNzHyJK6LLa2SbkkpARRz5NF6q73PbHPJEjdfdW!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNzHyJK6LLa2SbkkpARRz5NF6q73PbHPJEjdfdW%3Dw114-h86-k-no!7i4032!8i3024!4m14!1m7!3m6!1s0x479b315eebeb6ab3:0xa6f199d18bfb1f11!2sSchaanel!8m2!3d47.1748013!4d9.5121523!16s%2Fg%2F11frvzbyxb!3m5!1s0x479b315eebeb6ab3:0xa6f199d18bfb1f11!8m2!3d47.1748013!4d9.5121523!16s%2Fg%2F11frvzbyxb#", "https://www.google.com/maps/place/Schaanel/@47.1748013,9.5121523,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipObaWLIllssH3wx-Gmf_qu7N8hUEo_Ceki-F1FM!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipObaWLIllssH3wx-Gmf_qu7N8hUEo_Ceki-F1FM%3Dw203-h270-k-no!7i3024!8i4032!4m14!1m7!3m6!1s0x479b315eebeb6ab3:0xa6f199d18bfb1f11!2sSchaanel!8m2!3d47.1748013!4d9.5121523!16s%2Fg%2F11frvzbyxb!3m5!1s0x479b315eebeb6ab3:0xa6f199d18bfb1f11!8m2!3d47.1748013!4d9.5121523!16s%2Fg%2F11frvzbyxb#"]
+  },
+  "club_schweiz_2": { 
+    "name": "Rauch",
+    "location": [47.330473500773465, 9.627590082013267],
+    "description": "Underground club in Feldkirch",
+    "images": ["https://lh5.googleusercontent.com/p/AF1QipNBZt1OUtXENKC5E7GbG2Lcai14wsGD3UdXu5uI=w408-h271-k-no", "https://www.google.com/maps/place/rauch+club/@47.2369471,9.5960767,3a,75y,300h,100t/data=!3m8!1e1!3m6!1sAF1QipOsXXCdZeKI-pjQUwuMJ1z1-Jfvl5FtX2BMm7rT!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOsXXCdZeKI-pjQUwuMJ1z1-Jfvl5FtX2BMm7rT%3Dw203-h100-k-no-pi-10-ya267.7288-ro-0-fo100!7i13312!8i6656!4m10!1m2!2m1!1sclub!3m6!1s0x479b399bdc42961f:0xf8045290fcd86d55!8m2!3d47.2369562!4d9.5960049!15sCgRjbHVikgEKbmlnaHRfY2x1YuABAA!16s%2Fg%2F1vn9n1nh#"]
+  },
+  "club_schweiz_3": { 
+    "name": "Trischli",
+    "location": [47.4280005371486, 9.377075417886102],
+    "description": "Club in reach of Marktplatz St.Gallen",
+    "images": ["https://www.google.com/maps/place/Trischli+Club/@47.4262475,9.3771985,3a,78.5y,90t/data=!3m8!1e2!3m6!1sAF1QipPX41UcV5ZynAQFSgzknZvC3Tu8QH5NCLrb3Oxw!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPX41UcV5ZynAQFSgzknZvC3Tu8QH5NCLrb3Oxw%3Dw203-h151-k-no!7i750!8i561!4m10!1m2!2m1!1sclub!3m6!1s0x479b1e4ef215a5ab:0x667014d30e77dd2d!8m2!3d47.425728!4d9.3779013!15sCgRjbHVikgEKbmlnaHRfY2x1YuABAA!16s%2Fg%2F1vwln31h#", "https://www.google.com/maps/place/Trischli+Club/@47.4262475,9.3771985,3a,78.5y,90t/data=!3m8!1e2!3m6!1sAF1QipPX41UcV5ZynAQFSgzknZvC3Tu8QH5NCLrb3Oxw!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPX41UcV5ZynAQFSgzknZvC3Tu8QH5NCLrb3Oxw%3Dw203-h151-k-no!7i750!8i561!4m10!1m2!2m1!1sclub!3m6!1s0x479b1e4ef215a5ab:0x667014d30e77dd2d!8m2!3d47.425728!4d9.3779013!15sCgRjbHVikgEKbmlnaHRfY2x1YuABAA!16s%2Fg%2F1vwln31h#"]
+  },
+  "club_schweiz_4": { 
+    "name": "IVY",
+    "location": [47.4347726859491, 9.367169128610136],
+    "description": "Big Club in St.Gallen",
+    "images": ["https://www.google.com/maps/place/IVY+-+club+%26+events/@47.425573,9.3727722,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPaHsHw_XditaVfVbciwpvAphfcDbJEptKjbO9Y!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPaHsHw_XditaVfVbciwpvAphfcDbJEptKjbO9Y%3Dw129-h86-k-no!7i1920!8i1280!4m10!1m2!2m1!1sclub!3m6!1s0x479b1e4973e81105:0xe71b9db49b1eddf!8m2!3d47.4257148!4d9.3726623!15sCgRjbHVikgEKbmlnaHRfY2x1YuABAA!16s%2Fg%2F11csq8bfcy#", "https://www.google.com/maps/place/IVY+-+club+%26+events/@47.425573,9.3727722,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPaHsHw_XditaVfVbciwpvAphfcDbJEptKjbO9Y!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPaHsHw_XditaVfVbciwpvAphfcDbJEptKjbO9Y%3Dw129-h86-k-no!7i1920!8i1280!4m10!1m2!2m1!1sclub!3m6!1s0x479b1e4973e81105:0xe71b9db49b1eddf!8m2!3d47.4257148!4d9.3726623!15sCgRjbHVikgEKbmlnaHRfY2x1YuABAA!16s%2Fg%2F11csq8bfcy#"]
   },
   "club_schweiz_5": { 
-    "name": "Moderno2",
+    "name": "Selig",
+    "location": [46.84855784342459, 9.5277776169635423],
+    "description": "Club in the Clubstreet of Chur",
+    "images": ["https://www.google.com/maps/place/Selig+Chur/@46.8477208,9.5279368,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNFk5dzRs_G_T4rWmAcKDW8mLiR9tUhF7hlSrcu!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNFk5dzRs_G_T4rWmAcKDW8mLiR9tUhF7hlSrcu%3Dw128-h86-k-no!7i960!8i642!4m10!1m2!2m1!1sclub+chur!3m6!1s0x4784c771ea504aa9:0xeb17650ff752d357!8m2!3d46.8476359!4d9.5279529!15sCgljbHViIGNodXJaCyIJY2x1YiBjaHVykgEFZGlzY2-aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTkRMV1UzVEV0bkVBReABAA!16s%2Fg%2F12ll0k6yw#", "https://www.google.com/maps/place/Selig+Chur/@46.8477208,9.5279368,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPPPzXkNQ1cwUnYipxTXrYQslaJgb-UAZ2pUAyv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPPPzXkNQ1cwUnYipxTXrYQslaJgb-UAZ2pUAyv%3Dw203-h114-k-no!7i5312!8i2988!4m10!1m2!2m1!1sclub+chur!3m6!1s0x4784c771ea504aa9:0xeb17650ff752d357!8m2!3d46.8476359!4d9.5279529!15sCgljbHViIGNodXJaCyIJY2x1YiBjaHVykgEFZGlzY2-aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTkRMV1UzVEV0bkVBReABAA!16s%2Fg%2F12ll0k6yw#"]
+  },
+  "club_schweiz_6": { 
+    "name": "Loucy",
+    "location": [46.84825227910603, 9.527094592204184],
+    "description": "Biggest Club in Chur",
+    "images": ["https://www.google.com/maps/place/Loucy+-+Bar+Club+Eventhall/@46.847269,9.5269752,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO9i4Dq8KMBg_GuDF03OpSpK6tDgjGSbvzIQjPz!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO9i4Dq8KMBg_GuDF03OpSpK6tDgjGSbvzIQjPz%3Dw129-h86-k-no!7i5448!8i3632!4m10!1m2!2m1!1sclub+chur!3m6!1s0x4784c771f0755b77:0xfecb7490ccc8e144!8m2!3d46.8472673!4d9.527071!15sCgljbHViIGNodXKSARBsaXZlX211c2ljX3ZlbnVl4AEA!16s%2Fg%2F1xn_m7v5#", "https://www.google.com/maps/place/Loucy+-+Bar+Club+Eventhall/@46.847269,9.5269752,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOvQGNviiZpFy2oOBOzsZPWpJj9hr_zIoksZO07!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOvQGNviiZpFy2oOBOzsZPWpJj9hr_zIoksZO07%3Dw203-h135-k-no!7i5005!8i3337!4m10!1m2!2m1!1sclub+chur!3m6!1s0x4784c771f0755b77:0xfecb7490ccc8e144!8m2!3d46.8472673!4d9.527071!15sCgljbHViIGNodXKSARBsaXZlX211c2ljX3ZlbnVl4AEA!16s%2Fg%2F1xn_m7v5#"]
+  },
+  "club_schweiz_7": { 
+    "name": "Viva",
+    "location": [46.84766120378692, 9.527550649070253],
+    "description": "Club in Chur",
+    "images": ["https://vivaclubchur.ch/wp-content/uploads/2022/07/DSC03626.jpg", "https://vivaclubchur.ch/wp-content/uploads/2022/07/DSC03687-400x600.jpg"]
+  },
+  "club_schweiz_8": { 
+    "name": "TEST",
     "location": [5.2442134, 62.2345234523],
     "description": "A shitty club",
     "images": ["url a", "url b"]
